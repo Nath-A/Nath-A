@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code> 
 -->
-## :books: J'ai appris : 
+### :books: J'ai appris : 
 
 
-## :open_book: Je suis en train d'apprendre : 
+### :open_book: Je suis en train d'apprendre : 
 
 
-## :open_book: Je sais aussi utiliser: 
+### :open_book: Je sais aussi utiliser: 
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobephotoshop.svg"></code> 
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobeindesign.svg"></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobeillustrator.svg"></code> 
