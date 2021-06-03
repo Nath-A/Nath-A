@@ -1,4 +1,6 @@
-# Hellow 👋
+# Hellow et bienvenue sur mon profil GitHub👋
+
+## Mettre un header ?
 
 <!--
 **nathalie-anneessens/nathalie-anneessens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +17,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code> 
 -->
-### :books: J'ai appris : 
+#### 🔭 I’m currently working on ...
+- RPG
+- Vue.JS 101
 
+#### :books: I've learn...
+- html
+- css
+- bootstrap
+- 
+#### :open_book: I’m currently learning ...
+- Javascript
+- Vue JS
+- WordPress template
 
-### :open_book: Je suis en train d'apprendre : 
+#### :books: I also can do some stuff with...
+- Adobe et trouver un moyen de mettre ces stupides icones en couleurs ! 
+
+#### 👯 I’m looking for ...
+- An Internship ???
+
+#### 🤔 I’m looking for help with ...
+- MVC
+- OOP
+
+#### 💬 Ask me about ...
+- No idea, I masterize nothing... 
+
+#### 📫 How to reach me: ...
+- mail
+- linkedin a remettre à jour
+
+#### 😄 Pronouns: ...
+- She/her
+
+#### ⚡ Fun fact: ...
+- 
+
 
 
 ### :open_book: Je sais aussi utiliser: 
