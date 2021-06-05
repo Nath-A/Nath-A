@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code> 
 -->
 ### 🔭 I’m currently working on ...
+- [WordPress Theme from scratch 101](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)
+<!-- - [JS Snake](https://github.com/nathalie-anneessens/js-snake)
 - [JS RPG](https://github.com/nathalie-anneessens/js-rpg)
-- [Vue.JS 101](https://github.com/nathalie-anneessens/Vue.js-101)
+- [Vue.JS 101](https://github.com/nathalie-anneessens/Vue.js-101) -->
+
 
 ### :books: I've learn...
-- html
-- css
-- bootstrap
+- HTML
+- CSS
+- Bootstrap
 - PHP
 - MySQL
 ### :open_book: I’m currently learning ...
@@ -55,7 +58,7 @@ Here are some ideas to get you started:
 ### ⚡ Three fun facts: ...
 - I like crowdsurfing and pogo on metal music :metal:
 - I like animals and find spiders cute :spider:
-- I dislike melted cheese, babies and children shrieks & horror movies :-1:   
+- I dislike melted cheese, babies/children shrieks and horror movies :-1:   
 
 
 
