@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 
 
 
-### :open_book: Je sais aussi utiliser: 
+<!-- ### :open_book: Je sais aussi utiliser: 
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobephotoshop.svg"></code> 
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobeindesign.svg"></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobeillustrator.svg"></code> 
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobelightroom.svg"></code> 
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobeaftereffects.svg"></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobeaftereffects.svg"></code> -->
