@@ -1,7 +1,22 @@
+![Header temporaire](https://placekitten.com/g/1200/500)
 # Hellow and welcome on my GitHub profile 👋
 
-## Mettre un header ?
+My name is Nath(alie) and i am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/) and looking for a two-months internship *(not in remote pleeeaaaaaase :prey:)* for august and september 2021 ! 
 
+
+## 🔭 I’m currently working on ...
+- [WordPress Theme from scratch 101](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)
+<!-- - [JS Snake](https://github.com/nathalie-anneessens/js-snake)
+- [JS RPG](https://github.com/nathalie-anneessens/js-rpg)
+- [Vue.JS 101](https://github.com/nathalie-anneessens/Vue.js-101) -->
+
+## :eyes: Some stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalie-anneessens&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/nathalie-anneessens/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalie-anneessens&layout=compact&count_private=true&theme=midnight-purple)](https://github.com/nathalie-anneessens/github-readme-stats)
+
+
+<!-- Ressources : 
+- https://github.com/anuraghazra/github-readme-stats>
 <!--
 **nathalie-anneessens/nathalie-anneessens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +33,7 @@ Here are some ideas to get you started:
 - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code>
 - check this [Article en anglais pour faire une meilleure page](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7) 
 -->
-### 🔭 I’m currently working on ...
-- [WordPress Theme from scratch 101](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)
-<!-- - [JS Snake](https://github.com/nathalie-anneessens/js-snake)
-- [JS RPG](https://github.com/nathalie-anneessens/js-rpg)
-- [Vue.JS 101](https://github.com/nathalie-anneessens/Vue.js-101) -->
+#
 
 
 ### :books: I've learn...
@@ -62,10 +73,3 @@ Here are some ideas to get you started:
 - I dislike melted cheese, babies/children shrieks and horror movies :-1:   
 
 
-
-<!-- ### :open_book: Je sais aussi utiliser: 
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobephotoshop.svg"></code> 
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobeindesign.svg"></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobeillustrator.svg"></code> 
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobelightroom.svg"></code> 
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/adobeaftereffects.svg"></code> -->
