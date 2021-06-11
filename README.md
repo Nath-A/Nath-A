@@ -1,7 +1,7 @@
 ![Header temporaire](https://placekitten.com/g/1200/500)
 # Hellow and welcome on my GitHub profile 👋
 
-My name is Nath(alie) and i am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/) and looking for a two-months internship *(not in remote pleeeaaaaaase :prey:)* for august and september 2021 ! 
+My name is Nath(alie) and I am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/). I currently am looking for a two-months internship *(not in remote pleeeaaaaaase :pray: )* for august and september 2021 ! 
 
 
 ## 🔭 I’m currently working on ...
@@ -9,10 +9,47 @@ My name is Nath(alie) and i am a junior front-end developer, living in Brussels 
 <!-- - [JS Snake](https://github.com/nathalie-anneessens/js-snake)
 - [JS RPG](https://github.com/nathalie-anneessens/js-rpg)
 - [Vue.JS 101](https://github.com/nathalie-anneessens/Vue.js-101) -->
+### :books: I've learned...
+- HTML
+- CSS
+- Bootstrap
+- PHP
+- MySQL
+### :open_book: I’m currently learning ...
+- Javascript
+- Vue JS
+- Creating WordPress Theme from Scratch
 
+### :books: I also can do some stuff with...
+- Adobe et trouver un moyen de mettre ces stupides icones en couleurs ! 
+
+### 👯 I’m looking for ...
+- A 2-month internship (Or )
+
+### 🤔 I’m looking for help with ...
+- MVC
+- OOP
+
+### 💬 Ask me about ...
+- No idea, I masterize nothing... 
+
+### 📫 How to reach me: ...
+- [By e-mail](mailto:nathalie.anneessens@gmail.com)
+- [By linkedIn to update tonight or tommorow](https://www.linkedin.com/in/nathalieanneessens/)
+
+### 😄 Pronouns: ...
+- She/her
+
+### ⚡ Three fun facts: ...
+- I like crowdsurfing and pogo on metal music :metal:
+- I like animals and find spiders cute :spider:
+- I dislike melted cheese, babies/children shrieks and horror movies :-1:   
 ## :eyes: Some stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalie-anneessens&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/nathalie-anneessens/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalie-anneessens&layout=compact&count_private=true&theme=midnight-purple)](https://github.com/nathalie-anneessens/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nathalie-anneessens&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/nathalie-anneessens/github-profile-trophy)
+[![Nath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nath_a)](https://github.com/nathalie-anneessens/github-readme-stats)
+
 
 
 <!-- Ressources : 
@@ -33,43 +70,9 @@ Here are some ideas to get you started:
 - <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code>
 - check this [Article en anglais pour faire une meilleure page](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7) 
 -->
-#
 
 
-### :books: I've learn...
-- HTML
-- CSS
-- Bootstrap
-- PHP
-- MySQL
-### :open_book: I’m currently learning ...
-- Javascript
-- Vue JS
-- Creating WordPress Theme from Scratch
 
-### :books: I also can do some stuff with...
-- Adobe et trouver un moyen de mettre ces stupides icones en couleurs ! 
 
-### 👯 I’m looking for ...
-- An Internship ???
-
-### 🤔 I’m looking for help with ...
-- MVC
-- OOP
-
-### 💬 Ask me about ...
-- No idea, I masterize nothing... 
-
-### 📫 How to reach me: ...
-- [By e-mail](mailto:nathalie.anneessens@gmail.com)
-- [By linkedIn to update tonight or tommorow](https://www.linkedin.com/in/nathalieanneessens/)
-
-### 😄 Pronouns: ...
-- She/her
-
-### ⚡ Three fun facts: ...
-- I like crowdsurfing and pogo on metal music :metal:
-- I like animals and find spiders cute :spider:
-- I dislike melted cheese, babies/children shrieks and horror movies :-1:   
 
 
