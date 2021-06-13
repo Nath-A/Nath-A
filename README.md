@@ -15,7 +15,7 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 <!-- |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=Vue.js-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/Vue.js-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|
 | - | - | -->
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=getflixProject&theme=midnight-purple)](https://github.com/nathalie-anneessens/getflixProject)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=KingLeo-micro-chatbot&theme=midnight-purple)](https://github.com/nathalie-anneessens/KingLeo-micro-chatbot)|
-| - | - |
+| :---: | :---: |
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=restaurant-css-framework&theme=midnight-purple)](https://github.com/nathalie-anneessens/restaurant-css-framework)|  |
 
 ---
@@ -58,14 +58,13 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 ---
 
 ## 🖥️ I can do some stuff with...
-<!-- <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/> <br> -->
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-informational?style=for-the-badge&logo=adobephotoshop&labelColor=3C327B&logoColor=white&color=4FCCFE)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe_Lightroom-informational?style=for-the-badge&logo=adobelightroom&labelColor=2D3246&logoColor=white&color=B4D6E0)
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe_InDesign-informational?style=for-the-badge&logo=adobeindesign&labelColor=562F44&logoColor=white&color=E749A0)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-informational?style=for-the-badge&logo=adobeillustrator&labelColor=5F4B26&logoColor=white&color=FBBB4D)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe_After_Effects-informational?style=for-the-badge&logo=adobeaftereffects&labelColor=393665&logoColor=white&color=CF96FD)
 
-![Nikon D90](https://img.shields.io/badge/Nikon-D90-informational?style=for-the-badge&logo=&labelColor=010101&logoColor=white&color=f1e117)
+[![Nikon D90](https://img.shields.io/badge/Nikon-D90-informational?style=for-the-badge&logo=&labelColor=010101&logoColor=white&color=f1e117)](https://www.flickr.com/photos/50882489@N02/albums)
 
 <p><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /><br><em>...But don't ask me to make a page layout with MS Word! </em>🥺</p>
 
@@ -73,10 +72,6 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 
 ## 🤝 I’m looking for ...
 A two-months internship (Or three-months if you want to keep me and offer me a job after its end 🤞🏾 )
-
-<!-- ## 🤔 I’m looking for help with ...
-- MVC
-- OOP -->
 
 ---
 
@@ -87,13 +82,6 @@ A two-months internship (Or three-months if you want to keep me and offer me a j
 
 ---
 
-<!-- ## 😄 Pronouns: ...
-- She/her -->
-
-<!-- ## ⚡ Three fun facts: ...
-- I like crowdsurfing and pogo on metal music :metal:
-- I like animals and find spiders cute :spider:
-- I dislike melted cheese, babies/children shrieks and horror movies :-1:    -->
 
 ## 👀 "Some" stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalie-anneessens&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
@@ -105,28 +93,17 @@ A two-months internship (Or three-months if you want to keep me and offer me a j
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathalie-anneessens&theme=midnight-purple)](https://git.io/streak-stats)
 
 
-<!-- Ressources : 
+<!-- 
+Ressources :
+GITHUB PROFILE 101 TUTORIAL :  
+- https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
+
+STATS : 
 - https://github.com/anuraghazra/github-readme-stats>
+- https://github.com/DenverCoder1/github-readme-streak-stats
+
+BADGES : 
 - https://naereen.github.io/badges/
-<!--
-**nathalie-anneessens/nathalie-anneessens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- https://github.com/Ileriayo/markdown-badges
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code>
-- check this [Article en anglais pour faire une meilleure page](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7) 
 -->
-
-
-
-
-
-
