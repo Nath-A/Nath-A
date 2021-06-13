@@ -67,7 +67,7 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 
 ![Nikon D90](https://img.shields.io/badge/Nikon-D90-informational?style=for-the-badge&logo=&labelColor=010101&logoColor=white&color=f1e117)
 
-<p><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> <em>...But don't ask me to make a page layout with MS Word! </em>🥺</p>
+<p><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /><br><em>...But don't ask me to make a page layout with MS Word! </em>🥺</p>
 
 ---
 
