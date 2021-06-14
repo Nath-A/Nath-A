@@ -106,4 +106,6 @@ BADGES :
 - https://naereen.github.io/badges/
 - https://github.com/Ileriayo/markdown-badges
 
+COLOR EMOJIS : 
+- https://emojipedia.org/emoji/ 
 -->
