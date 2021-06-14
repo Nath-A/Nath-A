@@ -1,7 +1,9 @@
-![Header temporaire](https://placekitten.com/g/1200/500)
+![Header temporaire](img/banniere-improvisee-par-nuit-d'insomnie.jpg)
 # Hellow and welcome on my GitHub profile 👋🏾
 
-My name is Nath(alie) and I am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/). I currently am looking for a two-months internship (*not in remote pleeeaaaaaase* 🙏🏾 ) for august and september 2021 ! 
+My name is Nath(alie) and I am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/). I am currently looking for a two-months internship (*not in remote pleeeaaaaaase* 🙏🏾 ) for august and september 2021 ! 
+
+Fun facts : I also love to photograph nature and animals, I look like Tia Dalma/Calypso and need music and metal festivals :metal:
 
 ## 🔨 I’m currently working on ...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)
