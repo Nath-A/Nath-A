@@ -102,18 +102,18 @@ A two-months internship (Or three-months if you want to keep me and offer me a j
 <!-- RESSOURCES : -->
 
 <!--GITHUB PROFILE 101 TUTORIAL :  
-- https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969-->
+- https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969 -->
 
 <!-- STATS : 
 - https://github.com/anuraghazra/github-readme-stats>
-- https://github.com/DenverCoder1/github-readme-streak-stats-->
+- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
 <!-- BADGES : 
 - https://naereen.github.io/badges/
-- https://github.com/Ileriayo/markdown-badges-->
+- https://github.com/Ileriayo/markdown-badges -->
 
 <!-- COLOR EMOJIS : 
-- https://emojipedia.org/emoji/ 
+- https://emojipedia.org/emoji/ -->
 
-<!-- PHOTOGRAPHER FROM MOTOCULTOR 2015 : 
-- François Lampin-->
+<!--  PHOTOGRAPHER FROM MOTOCULTOR 2015 : 
+- François Lampin -->
