@@ -72,7 +72,7 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 ---
 
 ## 🤝 I’m looking for ...
-A two-months internship (Or three-months if you want to keep me and offer me a job after its end 🤞🏾 )
+A two-months internship (Or three-months if you want to keep me and offer me a job after its end 🤞🏾 ) from August and September (or October) 2021.  
 
 ---
 
