@@ -6,7 +6,7 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=Vue.JS-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/Vue.JS-101)|
 | :---: | :---: |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=dont-let-them-expire&theme=midnight-purple)](https://github.com/nathalie-anneessens/dont-let-them-expire)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=dont-let-them-expire&theme=midnight-purple)](https://github.com/nathalie-anneessens/dont-let-them-expire)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=js-rpg&theme=midnight-purple)](https://github.com/nathalie-anneessens/js-rpg)|
 
 <!-- - [JS Snake](https://github.com/nathalie-anneessens/js-snake)
 - [JS RPG](https://github.com/nathalie-anneessens/js-rpg)
