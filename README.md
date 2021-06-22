@@ -1,7 +1,6 @@
-![Header temporaire](https://placekitten.com/g/1200/500)
 # Hellow and welcome on my GitHub profile 👋🏾
 
-My name is Nath(alie) and I am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/). I currently am looking for a two-months internship (*not in remote pleeeaaaaaase* 🙏🏾 ) for august and september 2021 ! 
+My name is Nath(alie) and I am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/). I am currently looking for a two-months internship (*not in remote pleeeaaaaaase* 🙏🏾 ) for august and september 2021 ! 
 
 ## 🔨 I’m currently working on ...
 
@@ -41,14 +40,16 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 <p><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/></p>
 
+<p><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></p>
+
   
 
 ## 🧾 I also want to learn...
-<p><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+<p><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/><br>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><br>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/><br>
-<strong>and any other language you may need !</strong><br></p>
+<strong>and any other language you may need !</strong><br><br></p>
 
 
 
@@ -73,7 +74,7 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 ---
 
 ## 🤝 I’m looking for ...
-A two-months internship (Or three-months if you want to keep me and offer me a job after its end 🤞🏾 ) from August and September (or October) 2021.
+A two-months internship (Or three-months if you want to keep me and offer me a job after its end 🤞🏾 ) from August and September (or October) 2021.  
 
 ---
 
@@ -95,17 +96,26 @@ A two-months internship (Or three-months if you want to keep me and offer me a j
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathalie-anneessens&theme=midnight-purple)](https://git.io/streak-stats)
 
 
-<!-- 
-Ressources :
-GITHUB PROFILE 101 TUTORIAL :  
-- https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
+## 🤪 Funs facts
+<details><summary>I love to photograph nature and animals, I look like Tia Dalma/Calypso and enjoy music and metal festivals 🤘🏾</summary>
+ 
+<img src="img/banner-fun-facts.jpg" alt="Banner fun facts">
+</details>
+<!-- RESSOURCES : -->
 
-STATS : 
+<!--GITHUB PROFILE 101 TUTORIAL :  
+- https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969 -->
+
+<!-- STATS : 
 - https://github.com/anuraghazra/github-readme-stats>
-- https://github.com/DenverCoder1/github-readme-streak-stats
+- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-BADGES : 
+<!-- BADGES : 
 - https://naereen.github.io/badges/
-- https://github.com/Ileriayo/markdown-badges
+- https://github.com/Ileriayo/markdown-badges -->
 
--->
+<!-- COLOR EMOJIS : 
+- https://emojipedia.org/emoji/ -->
+
+<!--  PHOTOGRAPHER FROM MOTOCULTOR 2015 : 
+- François Lampin -->
