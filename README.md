@@ -8,11 +8,7 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 | :---: | :---: |
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=dont-let-them-expire&theme=midnight-purple)](https://github.com/nathalie-anneessens/dont-let-them-expire)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=js-rpg&theme=midnight-purple)](https://github.com/nathalie-anneessens/js-rpg)|
 
-<!-- - [JS Snake](https://github.com/nathalie-anneessens/js-snake)
-- [JS RPG](https://github.com/nathalie-anneessens/js-rpg)
--  [Vue.JS 101](https://github.com/nathalie-anneessens/Vue.js-101)-->
-    
-
+  
 ## 💪🏾 I worked on... 
 <!-- |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=Vue.js-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/Vue.js-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|
 | - | - | -->
@@ -40,13 +36,10 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 
 <p><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/></p>
-
-<p><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></p>
-
   
 
 ## 🧾 I also want to learn...
-<p><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/></p>
+<p><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/> <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></p>
 <p><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></p>
 <p><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/><br>
