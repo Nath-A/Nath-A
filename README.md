@@ -81,6 +81,7 @@ A two-months internship (Or three-months if you want to keep me and offer me a j
 
 
 ## 👀 "Some" stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalie-anneessens&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalie-anneessens&layout=compact&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
