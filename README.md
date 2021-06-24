@@ -81,12 +81,12 @@ A two-months internship (Or three-months if you want to keep me and offer me a j
 
 
 ## 👀 "Some" stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalie-anneessens&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalie-anneessens&layout=compact&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nathalie-anneessens&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/nathalie-anneessens/github-profile-trophy) -->
 [![Nath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nath_a&layout=compact)](https://wakatime.com/@nath_a)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathalie-anneessens&theme=midnight-purple)](https://git.io/streak-stats)
 
 
