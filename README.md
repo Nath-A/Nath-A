@@ -1,6 +1,6 @@
 # Hellow and welcome on my GitHub profile 👋🏾
 
-My name is Nath(alie) and I am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/). I am currently looking for a two-months internship (*not in remote pleeeaaaaaase* 🙏🏾 ) for august and september 2021 ! 
+My name is Nath(alie) and I am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/). I am currently looking for a two-months internship (*not in remote pleeeaaaaaase* 🙏🏾 ) for september and october 2021 ! 
 
 ## 🔨 I’m currently working on ...
 
@@ -68,7 +68,7 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 ---
 
 ## 🤝 I’m looking for ...
-A two-months internship (Or three-months if you want to keep me and offer me a job after its end 🤞🏾 ) from August and September (or October) 2021.  
+A two-months internship (Or three-months if you want to keep me and offer me a job after its end 🤞🏾 ) from September and October (or November) 2021.  
 
 ---
 
