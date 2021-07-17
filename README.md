@@ -1,12 +1,13 @@
 # Hellow and welcome on my GitHub profile 👋🏾
 
-My name is Nath(alie) and I am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/). I am currently looking for a two-months internship (*not in remote pleeeaaaaaase* 🙏🏾 ) for september and october 2021 ! 
+My name is Nath(alie) and I am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/).  
+My training is almost done but my learning will never end ! 🤓
 
 ## 🔨 I’m currently working on ...
 
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=Vue.JS-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/Vue.JS-101)|
 | :---: | :---: |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=dont-let-them-expire&theme=midnight-purple)](https://github.com/nathalie-anneessens/dont-let-them-expire)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=js-rpg&theme=midnight-purple)](https://github.com/nathalie-anneessens/js-rpg)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=c-sharp-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/c-sharp-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=js-rpg&theme=midnight-purple)](https://github.com/nathalie-anneessens/js-rpg)|
 
   
 ## 💪🏾 I worked on... 
@@ -24,8 +25,8 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 <p><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></p>
+<p><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></p>
 
   
@@ -34,8 +35,14 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 <p><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/></p>
 
+<p></p>
+
 <p><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/></p>
+
+<p><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>  <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></p>
+
+
   
 
 ## 🧾 I also want to learn...
@@ -65,10 +72,6 @@ My name is Nath(alie) and I am a junior front-end developer, living in Brussels 
 
 <p><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /><br><em>...But don't ask me to make a page layout with MS Word! </em>🥺</p>
 
----
-
-## 🤝 I’m looking for ...
-A two-months internship (Or three-months if you want to keep me and offer me a job after its end 🤞🏾 ) from September and October (or November) 2021.  
 
 ---
 
