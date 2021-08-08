@@ -5,7 +5,7 @@ My training is almost done but my learning will never end ! 🤓
 
 ## 🔨 I’m currently working on ...
 
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=asp.net-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/asp.net-101)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=blazor-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/blazor-101)|
 | :---: | :---: |
 <!-- |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=c-sharp-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/c-sharp-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=js-rpg&theme=midnight-purple)](https://github.com/nathalie-anneessens/js-rpg)| -->
 
