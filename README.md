@@ -16,9 +16,9 @@ My training is almost done but my learning will never end ! 🤓
 ## 💪🏾 I worked on... 
 <!-- |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=Vue.js-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/Vue.js-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|
 | - | - | -->
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=getflixProject&theme=midnight-purple)](https://github.com/nathalie-anneessens/getflixProject)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=KingLeo-micro-chatbot&theme=midnight-purple)](https://github.com/nathalie-anneessens/KingLeo-micro-chatbot)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=KingLeo-micro-chatbot&theme=midnight-purple)](https://github.com/nathalie-anneessens/KingLeo-micro-chatbot)|
 | :---: | :---: |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=restaurant-css-framework&theme=midnight-purple)](https://github.com/nathalie-anneessens/restaurant-css-framework)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=restaurant-css-framework&theme=midnight-purple)](https://github.com/nathalie-anneessens/restaurant-css-framework)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=getflixProject&theme=midnight-purple)](https://github.com/nathalie-anneessens/getflixProject)|
 
 ---
 
