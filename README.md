@@ -1,7 +1,7 @@
 # Hellow and welcome on my GitHub profile 👋🏾
 
-My name is Nath(alie) and I am a junior front-end developer, living in Brussels and studying at [BeCode](https://becode.org/learn/junior-web-developer/).  
-My training is almost done but my learning will never end ! 🤓
+My name is Nath(alie) and I am a junior front-end developer, living in Brussels working at [DiVintage](https://divintage.com).  
+My training is now done but my learning will never end ! 🤓
 
 ## 🔨 I’m currently working on ...
 
