@@ -6,10 +6,9 @@ My training is now done but my learning will never end ! 🤓
 ## 🔨 I’m currently working on ...
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=divintage-frontend&theme=midnight-purple)](https://github.com/nathalie-anneessens/divintage-frontend) -->
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=c-sharp-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/c-sharp-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=100DaysOfCode&theme=midnight-purple)](https://github.com/nathalie-anneessens/100DaysOfCode)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=100DaysOfCode&theme=midnight-purple)](https://github.com/nathalie-anneessens/100DaysOfCode)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=FreeCodeCampCertifications&theme=midnight-purple)](https://github.com/nathalie-anneessens/FreeCodeCampCertifications)|
 | :---: | :---: |
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=js-rpg&theme=midnight-purple)](https://github.com/nathalie-anneessens/js-rpg) -->
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=SASS-SCSS-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/SASS-SCSS-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=c-sharp-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/c-sharp-101)|
 
 
   
