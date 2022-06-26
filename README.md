@@ -5,7 +5,6 @@ My training is now done but my learning will never end ! 🤓
 
 ## 🔨 I’m currently working on ...
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=divintage-frontend&theme=midnight-purple)](https://github.com/nathalie-anneessens/divintage-frontend) -->
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=100DaysOfCode&theme=midnight-purple)](https://github.com/nathalie-anneessens/100DaysOfCode)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=SASS-SCSS-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/SASS-SCSS-101)|
 | :---: | :---: |
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=Adopt-a-Tree&theme=midnight-purple)](https://github.com/nathalie-anneessens/Adopt-a-Tree)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=advanced-CSS&theme=midnight-purple)](https://github.com/nathalie-anneessens/advanced-CSS)|
@@ -13,8 +12,7 @@ My training is now done but my learning will never end ! 🤓
 
   
 ## 💪🏾 I worked on... 
-<!-- |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=Vue.js-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/Vue.js-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|
-| - | - | -->
+
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=KingLeo-micro-chatbot&theme=midnight-purple)](https://github.com/nathalie-anneessens/KingLeo-micro-chatbot)|
 | :---: | :---: |
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=restaurant-css-framework&theme=midnight-purple)](https://github.com/nathalie-anneessens/restaurant-css-framework)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=getflixProject&theme=midnight-purple)](https://github.com/nathalie-anneessens/getflixProject)|
@@ -22,8 +20,8 @@ My training is now done but my learning will never end ! 🤓
 ---
 
 ## 📚 I've learned to use...
-<p><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></p>
+<p><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></p>
+<p><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></p>
 <p><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -38,28 +36,28 @@ My training is now done but my learning will never end ! 🤓
 <p><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
 </p>
 
-<p></p>
-<p><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></p>
+
+<p><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></p>
 <p></p>
 
-<p><img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>  <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></p>
+<p><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>  <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> <img alt="Blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"/></p>
 
 <p></p>
 <!-- <p><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/></p> -->
   
 
 ## 🧾 I also want to learn...
-<!-- <p>
+<p><img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"/> 
+ <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/></p>
+<p>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/></p>
-<p><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/> <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></p>
-<p><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/></p>
-<p><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/><br>
-<strong>and any other language you may need !</strong>😉<br><br></p>
 
- -->
+<p><img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white"/></p>
 
-<p><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/></p>
+<p><strong>and any other language you may need !</strong>😉<br><br></p>
+
+
+
 
 ![Affinity Photo](https://img.shields.io/badge/-Affinity_Photo-informational?style=for-the-badge&logo=affinityphoto&labelColor=7f4cd3&logoColor=white&color=f497ff)
 ![Affinity Designer](https://img.shields.io/badge/-Affinity_Designer-informational?style=for-the-badge&logo=affinitydesigner&labelColor=1473bf&logoColor=white&color=52d1fb)
