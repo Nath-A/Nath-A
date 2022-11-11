@@ -5,7 +5,7 @@ My training is now done but my learning will never end ! 🤓
 
 ## 🔨 I’m currently working on ...
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=javascript-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/javascript-101) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=Adopt-a-Tree&theme=midnight-purple)](https://github.com/nathalie-anneessens/Adopt-a-Tree) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=javascript-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/javascript-101) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=portfolio&theme=midnight-purple)](https://github.com/nathalie-anneessens/portfolio) |
 | --- | --- |
 
 
