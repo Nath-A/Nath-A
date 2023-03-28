@@ -5,16 +5,16 @@ My training is now done but my learning will never end ! 🤓
 
 ## 🔨 I’m currently working on ...
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=TailwindCSS-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/TailwindCSS-101)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=portfolio&theme=midnight-purple)](https://github.com/nathalie-anneessens/portfolio) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nath-A&repo=TailwindCSS-101&theme=midnight-purple)](https://github.com/Nath-A/TailwindCSS-101)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nath-A&repo=portfolio&theme=midnight-purple)](https://github.com/Nath-A/portfolio) |
 | --- | --- |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=Adopt-a-Tree&theme=midnight-purple)](https://github.com/nathalie-anneessens/Adopt-a-Tree)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=JavaScript-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/JavaScript-101)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nath-A&repo=Adopt-a-Tree&theme=midnight-purple)](https://github.com/Nath-A/Adopt-a-Tree)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nath-A&repo=JavaScript-101&theme=midnight-purple)](https://github.com/Nath-A/JavaScript-101)|
 
 
   
 ## 💪🏾 I worked on... 
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=advanced-CSS&theme=midnight-purple)](https://github.com/nathalie-anneessens/advanced-CSS)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/nathalie-anneessens/WordPress-theme-creation-101) |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nath-A&repo=advanced-CSS&theme=midnight-purple)](https://github.com/Nath-A/advanced-CSS)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nath-A&repo=WordPress-theme-creation-101&theme=midnight-purple)](https://github.com/Nath-A/WordPress-theme-creation-101) |
 | --- | --- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=KingLeo-micro-chatbot&theme=midnight-purple)](https://github.com/nathalie-anneessens/KingLeo-micro-chatbot)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathalie-anneessens&repo=getflixProject&theme=midnight-purple)](https://github.com/nathalie-anneessens/getflixProject)|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nath-A&repo=KingLeo-micro-chatbot&theme=midnight-purple)](https://github.com/Nath-A/KingLeo-micro-chatbot)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nath-A&repo=getflixProject&theme=midnight-purple)](https://github.com/Nath-A/getflixProject)|
 
 ---
 
@@ -86,14 +86,14 @@ My training is now done but my learning will never end ! 🤓
 
 
 ## 👀 "Some" stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalie-anneessens&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nath-A&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalie-anneessens&layout=compact&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-A&layout=compact&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nathalie-anneessens&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/nathalie-anneessens/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Nath-A&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/Nath-A/github-profile-trophy) -->
 [![Nath's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nath_a&layout=compact)](https://wakatime.com/@nath_a)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nathalie-anneessens&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nath-A&theme=midnight-purple)](https://git.io/streak-stats)
 
 
 ## 🤪 Funs facts
